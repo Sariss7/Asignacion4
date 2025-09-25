@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--class-path
+'C:/Users/erika/Documents/listas_Equipo01/listasInterfaces/target/listasInterfaces-1.0-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/erika/Documents/listas_Equipo01/listasInterfaces/src/main/java;C:/Users/erika/Documents/listas_Equipo01/listasInterfaces/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/erika/Documents/listas_Equipo01/listasInterfaces/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'listasInterfaces 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'listasInterfaces 1.0-SNAPSHOT API'
+com.equipo1.excepciones
+interfaces
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\src\main\java = 1758740237332
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\generated-sources\annotations = 1758803268370
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\allclasses-index.html = 1758803270488
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\allpackages-index.html = 1758803270491
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\element-list = 1758803270394
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\help-doc.html = 1758803270524
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\index-all.html = 1758803270516
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\index.html = 1758803270474
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\jquery-ui.overrides.css = 1758803270548
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\member-search-index.js = 1758803270500
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\module-search-index.js = 1758803270494
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\overview-summary.html = 1758803270520
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\overview-tree.html = 1758803270469
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\package-search-index.js = 1758803270496
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\script.js = 1758803270531
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\search.js = 1758803270534
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\serialized-form.html = 1758803270434
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\stylesheet.css = 1758803270527
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\tag-search-index.js = 1758803270501
+C:\Users\erika\Documents\listas_Equipo01\listasInterfaces\target\reports\apidocs\type-search-index.js = 1758803270498
