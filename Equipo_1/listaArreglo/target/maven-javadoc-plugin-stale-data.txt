@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--class-path
+'C:/Users/erika/Documents/listas_Equipo01/listaArreglo/target/listaArreglo-1.0-SNAPSHOT.jar;C:/Users/erika/Documents/listas_Equipo01/listasInterfaces/target/listasInterfaces-1.0-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/erika/Documents/listas_Equipo01/listaArreglo/src/main/java;C:/Users/erika/Documents/listas_Equipo01/listaArreglo/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/erika/Documents/listas_Equipo01/listaArreglo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'listaArreglo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'listaArreglo 1.0-SNAPSHOT API'
+com.equipo1.implementaciones
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\src\main\java = 1758742073671
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\generated-sources\annotations = 1758803271908
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\allclasses-index.html = 1758803273081
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\allpackages-index.html = 1758803273085
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\element-list = 1758803273035
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\help-doc.html = 1758803273122
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\index-all.html = 1758803273114
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\index.html = 1758803273117
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\jquery-ui.overrides.css = 1758803273146
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\member-search-index.js = 1758803273095
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\module-search-index.js = 1758803273088
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\overview-tree.html = 1758803273067
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\package-search-index.js = 1758803273091
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\script.js = 1758803273127
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\search.js = 1758803273130
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\stylesheet.css = 1758803273125
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\tag-search-index.js = 1758803273098
+C:\Users\erika\Documents\listas_Equipo01\listaArreglo\target\reports\apidocs\type-search-index.js = 1758803273093
